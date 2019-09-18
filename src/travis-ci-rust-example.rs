@@ -1,5 +1,5 @@
 pub fn add_numbers(a: int, b: int) -> int {
-    a + b + 1
+    a + b
 }
 
 #[test]
